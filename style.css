@@ -1,4 +1,12 @@
+body{
+	background-color: dodgerblue;
+}
 
-#header1 {
+#header1{
 	text-align: center;
+	color: white;
+}
+
+#par1{
+	color: white;
 }
